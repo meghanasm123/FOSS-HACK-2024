@@ -1,11 +1,11 @@
 # FOSS HACK 2024
 ## Disease Prediction Model
 ### Table of Contents
-##### -->Project Overview
-##### -->Features
-##### -->Installation
-##### -->Usage
-##### -->Technologies Used
+##### Project Overview
+##### Features
+##### Installation
+##### Usage
+##### Technologies Used
 
 ### Project Overview
 The Disease Prediction Model is a machine learning application designed to predict possible diseases based on input symptoms.This project aims to assist users in obtaining preliminary insights into potential health issues and corresponding treatments.
@@ -26,7 +26,8 @@ Clone the Repository
 bash
 
 #### Copy code
-git clone https://github.com/yourusername/disease-prediction.git
+git clone 
+##### https://github.com/yourusername/disease-prediction.git
 cd disease-prediction
 Install Dependencies
 bash
@@ -52,7 +53,7 @@ Flask: Backend framework for handling authentication.
 We welcome contributions to improve this project! Please follow these steps:
 
 Fork the repository.
-Create a new branch (git checkout -b feature/your-feature-name).
+Create a new branch (git checkout -b feature/your-feature-name).\n
 Make your changes and commit them (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/your-feature-name).
 Open a pull request.

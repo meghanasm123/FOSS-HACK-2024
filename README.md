@@ -6,6 +6,7 @@
 ##### Installation
 ##### Usage
 ##### Technologies Used
+##### License
 
 ### Project Overview
 The Disease Prediction Model is a machine learning application designed to predict possible diseases based on input symptoms.This project aims to assist users in obtaining preliminary insights into potential health issues and corresponding treatments.
@@ -47,6 +48,9 @@ Streamlit: Framework for building the web application.
 Scikit-Learn: Machine learning library for building the prediction model.
 Pandas: Data manipulation and analysis.
 Flask: Backend framework for handling authentication.
+
+### License
+This project is under the MIT License
 
 
 ### Contributing

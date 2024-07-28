@@ -1,11 +1,11 @@
 # FOSS HACK 2024
 ## Disease Prediction Model
 ### Table of Contents
--->Project Overview
--->Features
--->Installation
--->Usage
--->Technologies Used
+##### -->Project Overview
+##### -->Features
+##### -->Installation
+##### -->Usage
+##### -->Technologies Used
 
 ### Project Overview
 The Disease Prediction Model is a machine learning application designed to predict possible diseases based on input symptoms.This project aims to assist users in obtaining preliminary insights into potential health issues and corresponding treatments.
@@ -36,11 +36,6 @@ pip install -r requirements.txt
 ### Usage
 Running the Application
 Ensure you are in the project directory.
-Run the Streamlit app:
-bash
-Copy code
-streamlit run app.py
-Open your web browser and navigate to http://localhost:8501.
 User Authentication
 On the login page, enter your username and password.
 After logging in, input your symptoms to receive predictions and recommendations.
